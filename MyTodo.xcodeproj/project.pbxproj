@@ -14,6 +14,7 @@
 		1E0AB1FF229FCA0C009595C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E0AB1FD229FCA0C009595C7 /* LaunchScreen.storyboard */; };
 		1E0AB20A229FCA0C009595C7 /* MyTodoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0AB209229FCA0C009595C7 /* MyTodoTests.swift */; };
 		1E0AB215229FCA0C009595C7 /* MyTodoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0AB214229FCA0C009595C7 /* MyTodoUITests.swift */; };
+		1E0AB225229FCC49009595C7 /* aaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0AB224229FCC49009595C7 /* aaa.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1E0AB210229FCA0C009595C7 /* MyTodoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyTodoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E0AB214229FCA0C009595C7 /* MyTodoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTodoUITests.swift; sourceTree = "<group>"; };
 		1E0AB216229FCA0C009595C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E0AB224229FCC49009595C7 /* aaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aaa.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1E0AB1FB229FCA0C009595C7 /* Assets.xcassets */,
 				1E0AB1FD229FCA0C009595C7 /* LaunchScreen.storyboard */,
 				1E0AB200229FCA0C009595C7 /* Info.plist */,
+				1E0AB224229FCC49009595C7 /* aaa.swift */,
 			);
 			path = MyTodo;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				1E0AB1F7229FCA0A009595C7 /* ViewController.swift in Sources */,
 				1E0AB1F5229FCA0A009595C7 /* AppDelegate.swift in Sources */,
+				1E0AB225229FCC49009595C7 /* aaa.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
